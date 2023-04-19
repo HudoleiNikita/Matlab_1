@@ -1,5 +1,5 @@
 # Matlab_1
-diary lab1_ASP_ErbulatovHamit.txt
+
 pitchDur = 1;
 fs = 8000;
 timeArray = 0 : 1/fs: pitchDur;
